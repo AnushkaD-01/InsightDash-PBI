@@ -1,5 +1,7 @@
 This Power BI dashboard provides an analysis of Walmart's sales performance. It includes key insights into sales trends, store- wise performance, and customer behavior. This dashboard also highlights how sales in Walmart stores are affected during holidays and non-holiday periods. Additionally, it incorporates external factors such as temperature, fuel prices, and unemployment rates, which also impact sales across various Walmart stores.
 
+![Dashboard Preview](Dashboard-preview.png)
+
 **Dashboard Features**
 
 Interactive Data Visualizations: Utilize dynamic charts and graphs to explore sales trends and patterns.
